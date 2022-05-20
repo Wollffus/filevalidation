@@ -1,0 +1,11 @@
+{
+  "version":1.04,
+  "changelog" : "Version check",
+  "old":[
+      {
+          "version":1.00,
+          "changelog" : "First Release"
+      }
+  ]
+}
+
