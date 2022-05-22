@@ -1,6 +1,6 @@
 {
-  "version":0.9,
-  "changelog" : "Code cleanup, jailing function fix, un-jailing bug fix, ",
+  "version":1.0,
+  "changelog" : "Release, code cleanup, jailing function fix, un-jailing bug fix, ",
    "old":[
       {
         "version":0.7,
