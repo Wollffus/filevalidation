@@ -1,3 +1,3 @@
 # Validation
  
-Validation repo to notify customers of updates. 
+Validation repo to notify server owners of updates. 
