@@ -1,5 +1,10 @@
 {
-    "version":0.7,
-    "changelog" : "Pre Release",
-    "old":[]
+  "version":0.9,
+  "changelog" : "Code cleanup, jailing function fix, un-jailing bug fix, ",
+   "old":[
+      {
+        "version":0.7,
+        "changelog" : "Pre Release",
+      }
+   ]
 }
