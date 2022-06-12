@@ -1,7 +1,11 @@
 {
-  "version":1.0,
-  "changelog" : "Release, code cleanup, jailing function fix, un-jailing bug fix, ",
+  "version":1.1,
+  "changelog" : "Code Cleanup",
    "old":[
+      {
+        "version":1.0,
+        "changelog" : "Release, jailing function fix, un-jailing bug fix"
+      },
       {
         "version":0.7,
         "changelog" : "Pre Release"
