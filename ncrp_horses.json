@@ -1,8 +1,12 @@
 {
-  "version":1.0,
-  "changelog" : "Release",
+  "version":1.1,
+  "changelog" : "SQL updated, custom options added",
    "old":[
       {
+        "version":1.0,
+        "changelog" : "Release"
+      },
+       {
         "version":0.8,
         "changelog" : "Pre Release"
       }
