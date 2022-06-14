@@ -1,5 +1,10 @@
 {
-    "version":0.8,
-    "changelog" : "Pre-Release",
-    "old":[]
+  "version":1.0,
+  "changelog" : "Release, changes to accept VORP framework",
+   "old":[
+      {
+        "version":0.8,
+        "changelog" : "Pre-Release"
+      }
+   ]
 }
