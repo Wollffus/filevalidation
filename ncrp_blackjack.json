@@ -1,10 +1,14 @@
 {
-  "version":1.0,
-  "changelog" : "Release, fixed HIT button",
-   "old":[
-      {
-        "version":0.8,
-        "changelog" : "Pre-Release"
-      }
-   ]
-}
+    "version":1.1,
+    "changelog" : "VORP support, max bet config, notifications",
+     "old":[
+       {
+         "version":1.0,
+         "changelog" : "Release, fixed HIT button"
+        },
+        {
+          "version":0.8,
+          "changelog" : "Pre-Release"
+        }
+     ]
+  }
