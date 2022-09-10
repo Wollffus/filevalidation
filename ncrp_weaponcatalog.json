@@ -1,10 +1,14 @@
 {
-    "version":1.0,
-    "changelog" : "Release, gunsmith job 1/2 price, version check",
-    "old":[
+    "version":1.1,
+    "changelog" : "Pump shotgun fixes, rollingblock ammo work around",
+     "old":[
+       {
+         "version":1.0,
+         "changelog" : "Release, gunsmith job 1/2 price, version check"
+        },
         {
-            "version":0.8,
-            "changelog" : "Pre-Release"
+          "version":0.8,
+          "changelog" : "Pre-Release"
         }
-    ]
-}
+     ]
+  }
