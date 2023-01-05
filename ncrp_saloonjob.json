@@ -1,6 +1,6 @@
 {
   "version":1.2,
-  "changelog" : "Updated readme, Removed client side escrow",
+  "changelog" : "Packed for a more user friendly experiance, Updated readme, Removed client side escrow",
    "old":[
       {
         "version":1.1,
