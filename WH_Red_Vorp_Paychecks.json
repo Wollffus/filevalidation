@@ -1,7 +1,11 @@
 {
-  "version":1.5,
-  "changelog" : "VORP fixes",
+  "version":1.6,
+  "changelog" : "QOL fixes, name adjustments",
   "old":[
+      {
+          "version":1.5,
+          "changelog" : "VORP fixes"
+      },
       {
           "version":1.4,
           "changelog" : "Code Cleanup, Grades"
