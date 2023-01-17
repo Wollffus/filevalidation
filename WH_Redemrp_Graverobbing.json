@@ -1,7 +1,11 @@
 {
-    "version":1.4,
-    "changelog" : "Calls Cops (RedEM), Config option for cop message, Config option for time to dig",
+    "version":1.5,
+    "changelog" : "QOL fixes, name adjustments",
     "old":[
+        {
+            "version":1.4,
+            "changelog" : "Calls Cops (RedEM), Config option for cop message, Config option for time to dig"
+        },
         {
             "version":1.3,
             "changelog" : "Fixed animation"
