@@ -1,0 +1,14 @@
+{
+    "version":1.1,
+    "changelog" : "QOL fixes, name adjustments",
+     "old":[
+        {
+          "version":1.0,
+          "changelog" : "VORP support, RedEM support, Release"
+        }
+        {
+          "version":0.8,
+          "changelog" : "Pre-Release"
+        }
+     ]
+  }
