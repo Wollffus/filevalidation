@@ -1,7 +1,11 @@
 {
-    "version":1.4,
-    "changelog" : "Tax rate adjustable by client now, config updated",
+    "version":1.5,
+    "changelog" : "QOL updates, name adjustments",
     "old":[
+        {
+        "version":1.4,
+        "changelog" : "Tax rate adjustable by client now, config updated"
+        },
         {
         "version":1.3,
         "changelog" : "QOL update"
@@ -20,4 +24,3 @@
         }
     ]
 }
-
