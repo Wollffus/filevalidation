@@ -1,0 +1,10 @@
+{
+    "version":1.0,
+    "changelog" : "Release",
+    "old":[
+        {
+            "version":0.8,
+            "changelog" : "Pre Release"
+        }
+    ]
+}
