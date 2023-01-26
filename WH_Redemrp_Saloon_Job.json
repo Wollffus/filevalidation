@@ -1,7 +1,11 @@
 {
-  "version":1.3,
-  "changelog" : "File print updates, name updates, small fixes",
+  "version":1.4,
+  "changelog" : "2023 RedEM Framework Update",
    "old":[
+    {
+      "version":1.3,
+      "changelog" : "Packed for a more user friendly experiance, Updated readme, Removed client side escrow"
+    },
       {
         "version":1.2,
         "changelog" : "Packed for a more user friendly experiance, Updated readme, Removed client side escrow"
