@@ -1,7 +1,11 @@
 {
-  "version":1.4,
-  "changelog" : "2023 RedEM Framework Update",
+  "version":1.5,
+  "changelog" : "Added More configuration Options, created items.lua",
    "old":[
+    {
+      "version":1.4,
+      "changelog" : "2023 RedEM Framework Update"
+    },
     {
       "version":1.3,
       "changelog" : "Packed for a more user friendly experiance, Updated readme, Removed client side escrow"
