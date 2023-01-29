@@ -1,7 +1,11 @@
 {
-    "version":1.5,
-    "changelog" : "QOL updates, name adjustments",
+    "version":1.6,
+    "changelog" : "2023 RedEM Framework Update",
     "old":[
+        {
+        "version":1.5,
+        "changelog" : "QOL updates, name adjustments"
+        },
         {
         "version":1.4,
         "changelog" : "Tax rate adjustable by client now, config updated"
