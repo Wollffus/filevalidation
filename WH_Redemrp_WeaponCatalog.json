@@ -2,25 +2,25 @@
   "version":1.4,
   "changelog" : "Supports Fire, dynamite, and poison arrow features from RDO",
    "old":[
-     {
+    {
       "version":1.3,
       "changelog" : "2023 RedEM Framework Update"
-     },
+    },
     {
       "version":1.2,
       "changelog" : "QOL fixes, name adjustments"
-     },
-      {
+    },
+    {
        "version":1.1,
        "changelog" : "Pump shotgun fixes, rollingblock ammo work around"
-      },
-     {
+    },
+    {
        "version":1.0,
        "changelog" : "Release, gunsmith job 1/2 price, version check"
-      },
-      {
+    },
+    {
         "version":0.8,
         "changelog" : "Pre-Release"
-      }
+    }
    ]
 }
