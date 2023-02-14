@@ -1,7 +1,11 @@
 {
-  "version":1.5,
-  "changelog" : "Added More configuration Options, created items.lua",
+  "version":1.6,
+  "changelog" : "More config options for language translation",
    "old":[
+    {
+      "version":1.5,
+      "changelog" : "Added More configuration Options, created items.lua"
+    },
     {
       "version":1.4,
       "changelog" : "2023 RedEM Framework Update"
